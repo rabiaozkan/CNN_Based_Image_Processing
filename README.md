@@ -31,13 +31,13 @@ Choose the appropriate directory (**'cpu_based_image_convolution'** or **'gpu_ba
 
 ### Compilation
 - **CPU Version:**
-``` g++ -std=c++11 main.cpp -o main_cpu `pkg-config --cflags --libs opencv4` ```
+``` g++ -std=c++11 main.cpp -o main`pkg-config --cflags --libs opencv4` ```
 
 - **GPU Version:**
 ``` nvcc kernel.cu -o kernel `pkg-config --cflags --libs opencv4` ```
 
 ### Execution
-- **CPU: ./main_cpu**
+- **CPU: ./main**
 - **GPU: ./kernel**
 
 ## Usage
