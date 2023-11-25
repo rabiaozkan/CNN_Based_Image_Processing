@@ -46,7 +46,7 @@ Modify the image paths in the source files to use your own dataset. The project 
 
 ## Additional Resources
 
-- **Medium Article on OpenCV and GPU Support:** [OpenCV4.5.4 GPU Support (C++) by Batuhan Hangün.](linhttps://medium.com/@batuhanhangun/opencv454-gpu-support-cpp-bef2cc145090k)
+- **Medium Article on OpenCV and GPU Support:** [OpenCV4.5.4 GPU Support (C++) by Batuhan Hangün.](https://medium.com/@batuhanhangun/opencv454-gpu-support-cpp-bef2cc145090k)
 - **YouTube Video Series on CUDA Programming:** [CUDA Programming Tutorial Series](https://www.youtube.com/watch?v=-GY2gT2umpk&list=PLkmvobsnE0GHmLeVETd6zbbJSDZJWa5Fw&index=9&ab_channel=NicolaiNielsen) by Nicolai Nielsen. 
 
 These resources provide additional context and depth, especially for users interested in the technical details of GPU processing and CUDA integration with image processing tasks.
